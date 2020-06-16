@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang=ja dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Side-Menu</title>
+    <link rel="stylesheet" href="./stylesheet.css">
+  </head>
+  <body>
+    <div class="main-body">
+      <div class="head">
+        <div class="header-logo">
+          <p>Logoが入る</p>
+        </div>
+        <ul class="header-menu">
+          <li>menu1</li>
+          <li>menu2</li>
+          <li>menu3</li>
+        </ul>
+      </div>
+
+      <div class="main">
+        <div class="top-wrapper">
+          <h1>キャッチコピー</h1>
+          <p>フレーバーテキスト</p>
+        </div>
+      </div>
+    </div>
+
+    <footer>
+      <p>Footer</p>
+    </footer>
+  </body>
+</html>
